@@ -1,4 +1,1 @@
 # lab1
-
-
-example
